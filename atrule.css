@@ -1,0 +1,20 @@
+/* @charset "utf-8"; */
+@import 'b.css';
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(Monster\ AG.ttf);
+  }
+  
+div { 
+  font-family: myFirstFont;
+}
+p{
+  background-color: blue;
+}
+p{
+  background-color: gray !important;
+}
+p{
+  background-color:aqua;
+}
